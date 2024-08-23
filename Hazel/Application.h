@@ -1,5 +1,11 @@
 #pragma once
-class Application
-{
-};
 
+namespace Hazel {
+	class Application
+	{
+	public:
+		Application();
+		~Application();
+	};
+
+}
